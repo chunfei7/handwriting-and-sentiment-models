@@ -1,0 +1,9 @@
+tensorflow==2.10.0
+numpy<2
+keras-tuner
+nltk
+scikit-learn
+pandas
+matplotlib
+seaborn
+jupyter

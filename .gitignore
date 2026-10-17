@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+
+# Large or generated files
+data/emnist-letters.csv
+*.h5
+pizza_tuning/
+/*.png
